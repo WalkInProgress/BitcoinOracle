@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitcoinOracle</string>
+    <string name="info">info: Load button is pressing itself once per 5 seconds\n
+    image @ Simon-3 / Pixabay</string>
+    <string name="nulle">null</string>
+    <string name="load">Load</string>
+    <string name="click_to_load">Click to load!</string>
+</resources>
